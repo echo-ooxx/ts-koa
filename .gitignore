@@ -1,0 +1,9 @@
+# VSCode settings
+.vscode
+# OSX dir files
+.DS_Store
+
+# system
+/node_modules
+logs/*
+runtime/*
